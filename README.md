@@ -1,4 +1,5 @@
 # mundo-invertido
+![Screenshot](https://user-images.githubusercontent.com/98699264/191169406-e0a2f25a-de77-4caa-b7eb-08650fb40541.png)
 
 # 💻 Tecnologias
 * HTML
